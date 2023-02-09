@@ -1,2 +1,2 @@
 #!/bin/bash
-chnod a+x file
+chmod a+x hello
